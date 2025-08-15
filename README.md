@@ -15,7 +15,7 @@
 ## 🚀 Ready-to-Use Project
 
 **Get started immediately with our pre-configured Amazon parser:**
-- **[GitHub Repository](https://github.com/markolofsen/unrealon-parser-amazon)** - Complete Amazon parser with all configurations
+- **Complete Amazon parser** with all configurations and optimizations
 - **Zero Setup**: Clone and run with minimal configuration
 - **Production Ready**: Includes all enterprise features and optimizations
 
