@@ -8,9 +8,16 @@
 
 ## 🎯 Overview
 
-**Amazon Parser** is a production-ready Python tool for extracting comprehensive product data from Amazon.com. Built on the **[UnrealOn](https://pypi.org/project/unrealon/)** platform, it provides enterprise-grade web scraping capabilities with AI-powered automation, anti-bot detection, and real-time orchestration.
+**Amazon Parser** is a production-ready Python tool for extracting comprehensive product data from Amazon.com. Built on the **[UnrealOn](https://unrealon.com)** platform ([PyPI Package](https://pypi.org/project/unrealon/)), it provides enterprise-grade web scraping capabilities with AI-powered automation, anti-bot detection, and real-time orchestration.
 
 **Perfect for**: E-commerce intelligence, price monitoring, product research, competitive analysis, and Amazon data collection at scale.
+
+## 🚀 Ready-to-Use Project
+
+**Get started immediately with our pre-configured Amazon parser:**
+- **[GitHub Repository](https://github.com/markolofsen/unrealon-parser-amazon)** - Complete Amazon parser with all configurations
+- **Zero Setup**: Clone and run with minimal configuration
+- **Production Ready**: Includes all enterprise features and optimizations
 
 ## 🚀 Key Features
 
