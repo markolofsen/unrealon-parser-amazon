@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "amazon-parser"
+version = "0.1.0"
+description = "Amazon parser"
+authors = ["UnrealOn <support@unrealon.com>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.9"
+unrealon = "^1.0.3"
+setuptools = "^80.0.0"
+psutil = "^7.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

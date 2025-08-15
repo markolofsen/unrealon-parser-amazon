@@ -1,0 +1,7 @@
+{
+  "name": "manager",
+  "version": "1.0.0",
+  "scripts": {
+    "commit": "git add . && git commit -m 'fixes' && git push"
+  }
+}
